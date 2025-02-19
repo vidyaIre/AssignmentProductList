@@ -1,21 +1,22 @@
 import React from 'react'
-import productImages from '../../assets/productImages/'
-const Cards = ({productName,price,description,productImage}) => {
+//import productImg from './assets/productImages/image1.jpg'
+const Cards = ({ productName, price, description, productImg }) => {
     return (
         <div>
-            <div className="card" style={{
-                width: '18rem',
-                margin: '1rem',
-            }}>
-                <img 
-                    src="https://dummyimage.com/600x400/000/fff"
-                    //src={productImages}
+            <div className="card"
+                style={{
+                    width: '18rem',
+                    margin: '1rem',
+                }}>
+                <img
+                    src={productImg}
                     className="card-img-top"
                     alt="product-image"
-                    style={{
-                        height:'100',
-                        objectFit:'contain'
-                    }}
+                    height={500}
+                    // style={{
+                    //     height: '100',
+                    //     objectFit: 'contain'
+                    // }}
                 />
                 <div className="card-body">
                     <h5 className="card-title">{productName}</h5>
