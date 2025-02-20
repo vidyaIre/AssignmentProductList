@@ -1,0 +1,72 @@
+[
+    {
+       "id": 1,
+        "name":"CASUAL WEAR IMPORTED FABRIC DIGITAL PRINTED LONG TOP",
+        "price":1000,
+        "category":"Tops",
+        "image":"https://th.bing.com/th/id/OIP.fOC2lfIz0dkama0Es4XL1AHaJ2?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 2,
+         "name":"CASUAL WEAR COTTON FABRIC FLORAL PRINTED CHURIDHAR SET",
+         "price":1500,
+         "category":"Churidar",
+         "image":"https://th.bing.com/th/id/OIP.XwKtLPKGuqiM_VI3RasVPwHaKL?rs=1&pid=ImgDetMain"
+     },
+     {
+        "id": 3,
+         "name":"SEMI PARTY WEAR GEORGETTE FABRIC BNARASI SAREE",
+         "price":2000,
+         "category":"Saree",
+         "image":"https://2.bp.blogspot.com/-VcYhhwYI6Wk/ULR8u3zX2xI/AAAAAAAAM2Q/DiphwZoNqME/s1600/Indian+Models+In+Designer+Lehenga-0.jpg"
+     },
+     {
+        "id": 4,
+         "name":"Sequins Zari Embroidered Georgette Semi-stitched Lehenga Choli With Dupatta",
+         "price":14000,
+         "category":"Lehanga",
+         "image":"https://i.pinimg.com/originals/7d/e5/38/7de538bbd3659f87be98977965c9cbcc.jpg"
+     },
+     {
+        "id": 5,
+         "name":" Floral Print Stylish Georgette Anarkali Gown",
+         "price":7000,
+         "category":"Gown",
+         "image":"https://static.spotboye.com/uploads/divyanka_2019-4-20-13-10-49_original.jpg"
+     },
+     {
+        "id": 6,
+         "name":"CASUAL WEAR IMPORTED FABRIC DIGITAL PRINTED LONG TOP",
+         "price":800,
+         "category":"Churidar",
+         "image":"https://cdn.shopclues.com/images/detailed/79768/124616132_7030F_1502108253.jpg"
+     },
+     {
+        "id": 7,
+         "name":"CASUAL WEAR IMPORTED FABRIC DIGITAL PRINTED LONG TOP",
+         "price":600,
+         "category":"Tops",
+         "image":"https://i.pinimg.com/originals/60/ca/06/60ca0633aaaa8304c805e020323597d4.jpg"
+     },
+     {
+        "id": 8,
+         "name":"SWORNOF Women's Cotton silk saree for Patola festival Wedding silk with blouse piece",
+         "price":2400,
+         "category":"Saree",
+         "image":"https://i.pinimg.com/originals/31/3f/50/313f50e0a66f9be434d7caf0563b60c4.jpg"
+     },
+     {
+        "id": 9,
+         "name":"Floral Pattern Sequin Embellished Unstitched Lehenga Set",
+         "price":6800,
+         "category":"Lehanga",
+         "image":"https://getethnic.com/wp-content/uploads/2020/07/16hjhjjhfw19rr129lcd-marigold.jpg"
+     },
+     {
+        "id": 10,
+         "name":"Chanderi Floral Printed Long Gown",
+         "price":9900,
+         "category":"Gown",
+         "image":"https://th.bing.com/th/id/R.2b9cddebd4303ad41138473122b6d05c?rik=csjcoV007lfd0g&riu=http%3a%2f%2ftariqfarooq.com%2fwp-content%2fuploads%2f2023%2f12%2fGreenMehndiDressforBrideinPishwasFrockStyle.jpg&ehk=HfQ8sS%2bgycyKs34wNXr1KD6el6U%2fvA1X8NW0tk6XOgA%3d&risl=&pid=ImgRaw&r=0"
+     }
+]
